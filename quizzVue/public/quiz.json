@@ -1,0 +1,73 @@
+{
+  "title": "Quiz général",
+  "minimum_score": 8,
+  "succes_message": "Félicitations! Vous êtes un genie!",
+  "failure_message": "Dommage! vous devriez plus ouvrir de livres.",
+  "questions": [
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "choice": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correct_answer": "Océan Pacifique"
+    },
+    {
+      "question": "Qui a réalisé le film 'Titanic' ?",
+      "choice": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Martin Scorsese",
+        "Quentin Tarantino"
+      ],
+      "correct_answer": "James Cameron"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "choice": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "correct_answer": "Canberra"
+    },
+    {
+      "question": "Quelle planète est la plus proche du soleil ?",
+      "choice": ["Vénus", "Terre", "Mercure", "Mars"],
+      "correct_answer": "Mercure"
+    },
+    {
+      "question": "En quelle année a eu lieu la première Coupe du monde de football ?",
+      "choice": ["1930", "1940", "1950", "1960"],
+      "correct_answer": "1930"
+    },
+    {
+      "question": "Quel est l'élément chimique avec le symbole 'O' ?",
+      "choice": ["Oxygène", "Or", "Osmium", "Oganesson"],
+      "correct_answer": "Oxygène"
+    },
+    {
+      "question": "Quelle est la capitale de l'Italie ?",
+      "choice": ["Milan", "Rome", "Venise", "Florence"],
+      "correct_answer": "Rome"
+    },
+    {
+      "question": "Quel est l'instrument principal de Ludwig van Beethoven ?",
+      "choice": ["Violoncelle", "Flûte", "Piano", "Violon"],
+      "correct_answer": "Piano"
+    },
+    {
+      "question": "Quelle est la plus haute montagne du monde ?",
+      "choice": [
+        "Mont Everest",
+        "Mont Kilimandjaro",
+        "Mont Elbrouz",
+        "Mont Denali"
+      ],
+      "correct_answer": "Mont Everest"
+    },
+    {
+      "question": "Quel pays est célèbre pour ses pyramides anciennes ?",
+      "choice": ["Grèce", "Italie", "Égypte", "Mexique"],
+      "correct_answer": "Égypte"
+    }
+  ]
+}
